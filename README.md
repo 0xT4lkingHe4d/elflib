@@ -1,3 +1,3 @@
 # elflib
-And ELF x86 binary parser
-![banner](https://github.com/0xT4lkingHe4d/blob/banner.png)
+An ELF x86 binary parser
+![banner](https://raw.githubusercontent.com/0xT4lkingHe4d/elflib/refs/heads/main/banner.png)
